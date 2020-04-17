@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.internetbanking.app.customer.properties.InternetBankingProperties",
+      "sourceType": "com.internetbanking.app.customer.properties.InternetBankingProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.database",
+      "type": "java.lang.String",
+      "sourceType": "com.internetbanking.app.customer.properties.InternetBankingProperties"
+    },
+    {
+      "name": "app.host",
+      "type": "java.lang.String",
+      "sourceType": "com.internetbanking.app.customer.properties.InternetBankingProperties"
+    },
+    {
+      "name": "app.password",
+      "type": "java.lang.String",
+      "sourceType": "com.internetbanking.app.customer.properties.InternetBankingProperties"
+    },
+    {
+      "name": "app.port",
+      "type": "java.lang.String",
+      "sourceType": "com.internetbanking.app.customer.properties.InternetBankingProperties"
+    },
+    {
+      "name": "app.uri",
+      "type": "java.lang.String",
+      "sourceType": "com.internetbanking.app.customer.properties.InternetBankingProperties"
+    },
+    {
+      "name": "app.username",
+      "type": "java.lang.String",
+      "sourceType": "com.internetbanking.app.customer.properties.InternetBankingProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,70 @@
+2020-04-17 00:57:12 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:01:40 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:04:01 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:05:10 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:20:21 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:21:19 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:21:22 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:21:23 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:21:30 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:22:43 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:24:53 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:26:01 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:30:45 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:30:52 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:30:58 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:31:13 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:31:16 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:31:22 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:31:31 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:31:43 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:32:08 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:33:07 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:34:01 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:34:02 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:34:03 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:34:06 INFO  CustomerRepositry:96 - Successfully created the customer with 12345
+2020-04-17 01:51:47 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 01:51:51 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 01:52:05 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 01:52:49 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 01:54:03 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 01:54:11 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:08:59 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:10:18 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:12:21 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:13:12 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:25:50 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:26:08 ERROR CustomerRepositry:64 - customer does not exist can not be updated
+2020-04-17 02:31:04 INFO  CustomerRepositry:106 - Successfully created the customer with 12345
+2020-04-17 02:36:55 INFO  CustomerRepositry:108 - Successfully created the customer with 12345
+2020-04-17 02:37:37 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:38:11 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:38:20 INFO  CustomerRepositry:82 - Customer is deleted with the id 12345
+2020-04-17 02:38:30 ERROR CustomerRepositry:86 - Failed to delete the customer 12345
+2020-04-17 02:38:38 INFO  CustomerRepositry:108 - Successfully created the customer with 12345
+2020-04-17 02:38:41 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:38:45 INFO  CustomerRepositry:108 - Successfully created the customer with 123451
+2020-04-17 02:38:49 INFO  CustomerRepositry:108 - Successfully created the customer with 1234512
+2020-04-17 02:38:56 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:39:18 ERROR CustomerRepositry:64 - customer does not exist can not be updated
+2020-04-17 02:39:31 ERROR CustomerRepositry:97 - customer exit..
+2020-04-17 02:39:43 ERROR CustomerRepositry:64 - customer does not exist can not be updated
+2020-04-17 02:40:15 ERROR CustomerRepositry:64 - customer does not exist can not be updated
+2020-04-17 02:40:40 ERROR CustomerRepositry:64 - customer does not exist can not be updated
+2020-04-17 02:45:26 ERROR CustomerRepositry:64 - customer does not exist can not be updated
+2020-04-17 02:45:26 INFO  CustomerRepositry:72 - Successfully created the customer with 1234512
+2020-04-17 03:15:13 INFO  CustomerRepositry:75 - Successfully created the customer with null
+2020-04-17 03:15:52 INFO  CustomerRepositry:124 - Successfully created the customer with 1234512
+2020-04-17 03:16:07 INFO  CustomerRepositry:75 - Successfully created the customer with 1234512
+2020-04-17 03:17:57 INFO  CustomerRepositry:124 - Successfully created the customer with 1234512
+2020-04-17 03:18:56 INFO  CustomerRepositry:74 - Successfully created the customer with 1234512
+2020-04-17 03:20:00 INFO  CustomerRepositry:74 - Successfully created the customer with 1234512
+2020-04-17 03:20:56 INFO  CustomerRepositry:74 - Successfully created the customer with 1234512
+2020-04-17 03:21:03 INFO  CustomerRepositry:74 - Successfully created the customer with 1234512
+2020-04-17 03:21:09 INFO  CustomerRepositry:74 - Successfully created the customer with 1234512
+2020-04-17 03:21:14 INFO  CustomerRepositry:74 - Successfully created the customer with 1234512
+2020-04-17 15:56:15 INFO  CustomerRepositry:152 - Successfully created the customer with 12345
+2020-04-17 16:01:44 INFO  CustomerRepositry:152 - Successfully created the customer with 12345
+2020-04-17 16:04:22 INFO  CustomerRepositry:152 - Successfully created the customer with 12345
+2020-04-17 16:38:54 ERROR CustomerRepositry:112 - customer exit..
